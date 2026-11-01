@@ -7,6 +7,7 @@
 
     <!-- Paranoid Android version -->
     <string name="aospa_version">Paranoid Android version</string>
+    <string name="aospa_maintainer">Maintainer</string>
 
     <!-- Adaptive playback -->
     <string name="adaptive_playback_screen_title">Smart Pause</string>
